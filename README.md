@@ -12,7 +12,7 @@ Sequelize [utilizado] -> ORM (Mapeamento Objeto Relacional)
 
 # Run
 
-> node dev
+> node start
 
 ### Applications install dependences
 
