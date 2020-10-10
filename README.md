@@ -10,6 +10,20 @@ Knex -> Driver de manipulaçãod de banco de dados (de qualquer tipo)
 
 Sequelize [utilizado] -> ORM (Mapeamento Objeto Relacional)
 
-# Run application
+# Run
 
-> \$ npm install --save sequelize
+> node dev
+
+### Applications install dependences
+
+> \$ npm init -y
+
+> \$ npm install express
+
+> \$ npm install pg pg-hstore
+
+> \$ npm install sequelize
+
+> \$ npm install sequelize-cli -D
+
+> \$ npm install nodemon [script "dev" "nodemon src/server.js"]
